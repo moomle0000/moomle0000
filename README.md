@@ -27,15 +27,11 @@
 |![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)|![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)|![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)|![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
 # 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=moomle0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=moomle0000&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moomle0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moomle0000&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="moomle">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=moomle0000&amp;theme=radical&amp;hide_border=false" alt="moomle">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moomle0000&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="moomle">
-  
-</p>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=moomle0000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
----
 
