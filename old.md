@@ -5,7 +5,7 @@
 <img align="center" src="https://discord.c99.nl/widget/theme-2/304329160120336385.png" alt="Discord"/> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moomle0000&label=Profile%20views&color=0e75b6&style=flat" alt="moomle" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirsingh2004" alt="kabirsingh2004" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moomle0000" alt="moomle0000" /></a> </p>
 </center>
 
 
