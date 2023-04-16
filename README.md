@@ -12,7 +12,6 @@
 
 💬 Ask me about JS , ReactJS , Web Developemt , C , C# , Go lang, java , C++ , Python
 
-📫 How to reach me https://discord.gg/qDbhFBvCVc
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moomle0000&label=Profile%20views&color=0e75b6&style=flat" alt="moomle"/> 
