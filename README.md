@@ -13,6 +13,8 @@
 💬 Ask me about JS , ReactJS , Web Developemt , C , C# , Go lang, java , C++ , Python
 
 📫 How to reach me https://discord.gg/qDbhFBvCVc
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moomle&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="moomle"/>  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moomle0000&label=Profile%20views&color=0e75b6&style=flat" alt="moomle"/> 
 </p>
@@ -30,7 +32,7 @@
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=moomle&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="moomle"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moomle&theme=radical&hide_border=false" alt="moomle"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moomle&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="moomle"/>
+  
   
 </p>
 
