@@ -23,9 +23,9 @@
   <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)|![](https://img.shields.io/badge/NT-Web%20Development-blue?style=for-the-badge)|![](https://img.shields.io/badge/NT-robotics-yallow?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)|![](https://img.shields.io/badge/NT-Web%20Development-blue?style=for-the-badge)|![](https://img.shields.io/badge/NT-robotics-yallow?style=for-the-badge)|![](https://img.shields.io/badge/NT-Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Problem%20solving-blue?style=for-the-badge)|![](https://img.shields.io/badge/IoT-green?style=for-the-badge)|![](https://img.shields.io/badge/NT-designing-red?style=for-the-badge)|![](https://img.shields.io/badge/NT-Firewalls%20and%20Security-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/NT-Problem%20solving-blue?style=for-the-badge)|![](https://img.shields.io/badge/IoT-green?style=for-the-badge)|![](https://img.shields.io/badge/NT-designing-red?style=for-the-badge)|![](https://img.shields.io/badge/NT-Firewalls%20and%20Security-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
 <Br>
 
