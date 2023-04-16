@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moomle&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="230"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moomle&theme=radical&hide_border=false" height="230"/>
 </p>
 <h1 align="center">I'm <a href="https://onur-oenker.com/">moomle<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
