@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">I'm <a>moomle<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
+
 <Br>
 
 # 💫About Me :
@@ -17,8 +18,12 @@
   <img src="https://komarev.com/ghpvc/?username=moomle0000&label=Profile%20views&color=0e75b6&style=flat" alt="moomle"/> 
 </p>
   
-  
+<br>
 
+
+
+  
+<br />
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/qDbhFBvCVc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lm_moomle) 
@@ -32,10 +37,28 @@
   
 <Br>
 
-# 💻Tech Stack
-|![py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=yallow)|![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)|![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|![](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)|![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)|![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)|![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+### ⌨️ **_Languages and Tools -_**
+
+![NPM Badge](https://img.shields.io/badge/-NPM-0D1117?logo=npm)
+![VS Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio-0D1117?logo=visual-studio&logoColor=007ACC)
+![Eclipse IDE Badge](https://img.shields.io/badge/-Eclipse_IDE-0D1117?logo=eclipse-ide&logoColor=007ACC)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-0D1117?logo=mysql)
+![MS-SQL Badge](https://img.shields.io/badge/-SQL_Server-0D1117?logo=microsoftsqlserver)
+![Processing Badge](https://img.shields.io/badge/-Processing-0D1117?logo=processing-foundation&logoColor=006699)
+![Java Badge](https://img.shields.io/badge/-Java-0D1117?logo=java)
+![C Sharap Badge](https://img.shields.io/badge/-C_Sharp-0D1117?logo=csharp&logoColor=239120)
+![Markdown Badge](https://img.shields.io/badge/-Markdown-0D1117?logo=markdown)
+![HTML Badge](https://img.shields.io/badge/-HTML-0D1117?logo=html5)
+![CSS Badge](https://img.shields.io/badge/-CSS-0D1117?logo=css3&logoColor=1572B6)
+![C++](https://img.shields.io/badge/c++-0D1117.svg?&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117.svg?&logo=Python&logoColor=yallow)
+![GO](https://img.shields.io/badge/GO-0D1117.svg?&logo=GO&logoColor=yallow)
+![react](https://img.shields.io/badge/react-0D1117.svg?&logo=react&logoColor=%2361DAFB)
+
 
   
   
@@ -46,5 +69,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=moomle0000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
