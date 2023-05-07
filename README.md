@@ -33,6 +33,25 @@
 |![py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=yallow)|![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)|![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|![](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)|![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)|![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)|![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+<Br>
+  ### ⌨️ **_Languages and Tools -_**
+
+[![NPM Badge](https://img.shields.io/badge/-NPM-0D1117?logo=npm)][npm]
+[![VS Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?logo=visual-studio-code&logoColor=007ACC)][vscode]
+[![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio-0D1117?logo=visual-studio&logoColor=007ACC)][vs]
+[![Eclipse IDE Badge](https://img.shields.io/badge/-Eclipse_IDE-0D1117?logo=eclipse-ide&logoColor=007ACC)][eclipseide]
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js)][nodejs]
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript)][javascript]
+[![.ENV Badge](https://img.shields.io/badge/-dotenv-0D1117?logo=.env)][.env]
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb)][mongodb]
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-0D1117?logo=mysql)][mysql]
+[![MS-SQL Badge](https://img.shields.io/badge/-SQL_Server-0D1117?logo=microsoftsqlserver)][mssql]
+[![Processing Badge](https://img.shields.io/badge/-Processing-0D1117?logo=processing-foundation&logoColor=006699)][processing]
+[![Java Badge](https://img.shields.io/badge/-Java-0D1117?logo=java&logoColor=007396)][java]
+[![C Sharap Badge](https://img.shields.io/badge/-C_Sharp-0D1117?logo=csharp&logoColor=239120)][cs]
+[![Markdown Badge](https://img.shields.io/badge/-Markdown-0D1117?logo=markdown)][markdown]
+[![HTML Badge](https://img.shields.io/badge/-HTML-0D1117?logo=html5)][html]
+[![CSS Badge](https://img.shields.io/badge/-CSS-0D1117?logo=css3&logoColor=1572B6)][css]
   
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=moomle0000&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
