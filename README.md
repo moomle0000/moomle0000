@@ -7,7 +7,10 @@
 <Br>
 
 # 💫About Me :
-🔭 I’m currently working on Web Development and Softwear Development
+  
+
+🔭 I’m currently working on Full Stack Developer and Networking adminstrator
+
 
 🌱 I’m currently learning java , c#
 
